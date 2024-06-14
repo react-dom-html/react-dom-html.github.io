@@ -63,9 +63,7 @@ The build artifacts will be stored in the `build/` directory.
 
    - Install the `gh-pages` package:
 
-     ```sh
-     npm install --save gh-pages
-     ```
+   <iframe src="https://lelbois.nekoweb.org/prism-syntax-coloring/index.html?code=npm%20install%20--save%20gh-pages%0A&lang=shell" style="width: 99%; height: 500px; border: none;"></iframe>
 
    - Add the following scripts to your `package.json`:
 
